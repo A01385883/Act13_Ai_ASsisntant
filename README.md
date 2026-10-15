@@ -39,3 +39,13 @@ Todo commit con código generado por IA debe declararlo con un trailer
 ## Entrega
 
 Ver la rúbrica en la guía. Sube todas las ramas: `git push origin --all`.
+
+## Preguntas
+
+## Ejercicio B3
+
+Mas amable:
+
+9 Tokens Por segundo, los 256 tokens, tardo alrededor de 2 segundos.
+La respuesta mas o menis hace lo que se le pide pero elabora mucho mas de lo que se esperaria.
+
